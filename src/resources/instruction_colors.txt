@@ -1,0 +1,11 @@
+==colors.txt content==
+colors.txt contains 3 colors in RRGGBB (hex) format:
+ - Background color
+ - Primary text color
+ - Secondary text color
+
+Example:
+
+00001f
+ffcf7f
+af9f7f
